@@ -8,6 +8,8 @@ function Header() {
             <NavLink to="/login" style={{padding:"10px 15px"}}>Login</NavLink>
             <NavLink to="/register" style={{padding:"10px 15px"}}>Register</NavLink>
             <NavLink to="/project" style={{padding:"10px 15px"}}>Projects</NavLink>
+            <NavLink to="/contact" style={{padding:"10px 15px"}}>Contact</NavLink>
+            <NavLink to="/consultation" style={{padding:"10px 15px"}}>Consultation</NavLink>
         </nav>
     ); 
 }
